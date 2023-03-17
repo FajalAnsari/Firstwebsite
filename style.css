@@ -1,0 +1,161 @@
+*{
+    font-family: 'Noto Serif', serif;
+}
+.container{
+width: 1139px;
+height: 612px;
+margin-top: 170px;
+background: #D9D9D9;
+}
+.fname{
+    width: 420px;
+    height: 44px;
+    border: none;
+    margin-top: 140px;
+    margin-left: 150px;
+    background: #DCC7C7; 
+}
+.lname{
+    width: 420px;
+    height: 44px;
+    margin-top: 22px;
+    border: none;
+    margin-left: 150px;
+    background: #DCC7C7; 
+}
+.age{
+    width: 420px;
+    height: 44px;
+    border: none;
+    margin-top: 22px;
+    margin-left: 150px;
+    background: #DCC7C7; 
+}
+.clg{
+    width: 420px;
+    height: 44px;
+    border: none;
+    margin-top: 22px;
+    margin-left: 150px;
+    background: #DCC7C7; 
+}
+#del{
+    width: 478px;
+    border: none;
+height: 242px;
+margin-top: 140px;
+    margin-left: 39px;
+    margin-right: 52px;
+background: #6D6E6E;
+}
+::placeholder {
+width: 125px;
+height: 15px;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.015em;
+color: rgba(0, 0, 0, 0.5);
+  }
+
+.first{
+width: 321px;
+height: 34px;
+margin-top: 10px;
+margin-left: 18px;
+background: #DCC7C7;
+opacity: 0.9;
+border: none;
+border-radius: 10px;
+}
+
+.last{
+    width: 321px;
+    height: 34px;
+    margin-top: 15px;
+    margin-left: 18px;
+    background: #DCC7C7;
+    opacity: 0.9;
+    border: none;
+    border-radius: 10px;
+    }
+
+    .collage{
+        width: 321px;
+        height: 34px;
+        margin-top: 15px;
+        margin-left: 18px;
+        background: #DCC7C7;
+        opacity: 0.9;
+        border: none;
+        border-radius: 10px;
+        }
+        .ages{
+            width: 321px;
+            height: 34px;
+            border: none;
+            margin-top: 15px;
+            margin-left: 18px;
+            background: #DCC7C7;
+            opacity: 0.9;
+            border-radius: 10px;
+            }
+
+.del1{
+    width: 87px;
+    border: none;
+height: 34px;
+margin-top: 10px;
+margin-left: 22px;
+background: #D9D9D9;
+border-radius: 10px;
+}
+.del2{
+    width: 87px;
+    border: none;
+height: 34px;
+margin-top: 10px;
+margin-left: 22px;
+background: #D9D9D9;
+border-radius: 10px;
+}
+.del3{
+    width: 87px;
+height: 34px;
+margin-top: 10px;
+margin-left: 22px;
+border: none;
+background: #D9D9D9;
+border-radius: 10px;
+}
+.del4{
+    width: 87px;
+height: 34px;
+margin-top: 10px;
+margin-left: 22px;
+border: none;
+background: #D9D9D9;
+border-radius: 10px;
+}
+.button{
+    display: flex;
+}
+.reset{
+ width: 115px;
+height: 34px;
+margin-top: 21px;
+margin-left: 150px;
+border: none;
+background: #6D6E6F;
+border-radius: 10px;
+}
+.submit{
+    width: 115px;
+   height: 34px;
+   margin-top: 21px;
+   margin-left: 22px;
+   border: none;
+   background: #5DB0CA;
+   border-radius: 10px;
+   }
+   
